@@ -1,8 +1,7 @@
 name: UCI PR CI
 
 on:
-
-  pull_request:
+ pull_request:
     branches: [ "main" ]
 
 jobs:
